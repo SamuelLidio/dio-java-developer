@@ -1,2 +1,2 @@
 # DIO Java Developer
-Repósitorio de aulas e exercícios da formação Java developer disponibilizada pela DIO
+Repositório de aulas e exercícios do curso Java Developer da DIO 
